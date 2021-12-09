@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello World, I'm Charles 👋
 
-<!--
-**ckc64/ckc64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm a Flutter Developer
+
+<img alt="medium" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+
+
+- 🔭 I’m currently working on a Flutter Application for my work
+- 🌱 I’m currently learning ReactJS/NextJS for Web Development
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I will go to gym :muscle: if I can't solve an issue 
+
+</br>
+
+### Connect with me
+
+</br>
+
+cabercharleskurt@gmail.com
+<img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
