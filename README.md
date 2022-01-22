@@ -15,12 +15,14 @@
 ### My Personal Projects
 
 </br>
-## Brigada App
-</br>
-"Brigada" a volunteering application
 
-  **Features**
-  
+## Brigada App
+
+</br>
+
+"Brigada" a volunteering application where an **establishment** like schools can request a volunteer to help on their important event/s, **user/volunteer** can view, locate and accept the request if they want too. Brigada also became a finalist for **AppCon 2020: An Invitational Application Development Contest by OTis Inc.**
+
+</br>
 
 <img alt="Brigada App" src="https://github.com/ckc64/ckc64/blob/master/brigada%20GIF.gif" width="400" height="790">
 
