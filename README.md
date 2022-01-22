@@ -16,7 +16,7 @@
 
 </br>
 
-![Brigada App]<img src="(https://github.com/ckc64/ckc64/blob/master/brigada%20GIF.gif)" width="400" height="790">
+<img src="https://github.com/ckc64/ckc64/blob/master/brigada%20GIF.gif" width="400" height="790">
 
 
 </br>
