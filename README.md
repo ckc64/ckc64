@@ -15,8 +15,13 @@
 ### My Personal Projects
 
 </br>
+## Brigada App
 
-<img src="https://github.com/ckc64/ckc64/blob/master/brigada%20GIF.gif" width="400" height="790">
+"Brigada" a volunteering application
+
+  **Features
+
+<img alt="Brigada App" src="https://github.com/ckc64/ckc64/blob/master/brigada%20GIF.gif" width="400" height="790">
 
 
 </br>
