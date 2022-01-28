@@ -39,7 +39,7 @@
 
 </br>
 
-<img alt="Brigada App" src="https://github.com/ckc64/ckc64/blob/master/brigada%20GIF.gif" width="400" height="790">
+<img alt="Ploggly" src="https://github.com/ckc64/ckc64/blob/master/ploggly-gif.gif" width="400" height="790">
 
 
 </br>
