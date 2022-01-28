@@ -31,6 +31,19 @@
 
 </br>
 
+### Ploggly
+
+</br>
+
+"Ploggy" is a social media inspired by Instagram.
+
+</br>
+
+<img alt="Brigada App" src="https://github.com/ckc64/ckc64/blob/master/brigada%20GIF.gif" width="400" height="790">
+
+
+</br>
+
 ***
 
 ### Connect with me
