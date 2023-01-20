@@ -6,6 +6,13 @@
 
 
 - 🔭 I have 3 years experience on Flutter Development
+    - Firebase
+    - API Integration
+    - BlocProvider Pattern
+    - MobX Pattern
+    - Flutter Web
+    - etc..
+
 - 🌱 I love working on new things
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I will go to gym :muscle: if I can't solve an issue 
