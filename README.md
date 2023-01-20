@@ -5,8 +5,8 @@
 <img alt="medium" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 
-- 🔭 I’m currently working on a Flutter Application for my work
-- 🌱 I’m currently learning ReactJS/NextJS for Web Development
+- 🔭 I have 3 years experience on Flutter Development
+- 🌱 I love working on new things
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I will go to gym :muscle: if I can't solve an issue 
 
