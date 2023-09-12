@@ -11,6 +11,8 @@
     - BlocProvider Pattern
     - MobX Pattern
     - Flutter Web
+    - NextJS
+    - Javascript/Typescript
     - etc..
 
 - 🌱 I love working on new things
