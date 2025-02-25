@@ -5,12 +5,13 @@
 <img alt="medium" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 
-- 🔭 I have 3 years experience on Flutter Development
+- 🔭 I have over 4 years experience on Flutter Development
     - Firebase
     - API Integration
     - BlocProvider Pattern
     - MobX Pattern
     - Flutter Web
+    - FlutterFlow
     - NextJS
     - Javascript/Typescript
     - etc..
