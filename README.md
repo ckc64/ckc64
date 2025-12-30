@@ -38,6 +38,14 @@ https://nelsonapp.co.nz/
 https://marlboroughapp.co.nz/
 </br>
 
+https://ethicalbrand.com/
+</br>
+https://directory.ethicalbrand.com/
+</br>
+https://journal.ethicalbrand.org/
+</br>
+https://play.google.com/store/apps/details?id=com.discountDiva.app&hl=en
+
 ### Flutter Web
 https://seatmatch.github.io/seatmatch-web-build/
 </br>
