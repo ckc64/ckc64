@@ -1,94 +1,72 @@
 ### Hello World, I'm Charles 👋
+### Flutter & iOS Developer
 
-### I'm a Flutter Developer
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-<img alt="medium" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
-
-- 🔭 I have over 4 years experience on Flutter Development
-    - Firebase
-    - API Integration
-    - BlocProvider Pattern
-    - MobX Pattern
-    - Flutter Web
-    - FlutterFlow
-    - NextJS
-    - Javascript/Typescript
-    - etc..
-
-- 🌱 I love working on new things
+- 🔭 5+ years of Flutter development across fintech, e-commerce, and media
+- 🍎 Recently shipped a fully native iOS app using Swift 6 and SwiftUI
+- 🌱 Always working on something new
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I will go to gym :muscle: if I can't solve an issue 
+- ⚡ Fun fact: I go to the gym 💪 when I can't solve an issue
 
-</br>
+**What I work with:**
+Flutter · Dart · Swift · SwiftUI · Firebase · BLoC · Provider · Clean Architecture
+WidgetKit · SwiftData · RevenueCat · StoreKit 2 · Node.js · FlutterFlow · Next.js
 
-***
-### Client Projects
-<a href="https://apps.apple.com/ph/app/nelson-app/id1123543046"> (IOS) Nelson App </a>
-</br>
-<a href="https://play.google.com/store/apps/details?id=com.app.p1436EA&hl=en&gl=US"> (Android) Nelson App </a>
-</br>
-https://nelsonapp.co.nz/
-</br>
+---
 
-<a href="https://apps.apple.com/nz/app/the-marlborough-app/id1347811969"> (IOS) Marlborough App </a>
-</br>
-<a href="https://play.google.com/store/apps/details?id=com.app.p1251HB&hl=en&gl=US"> (Android) Marlborough App </a>
-</br>
-https://marlboroughapp.co.nz/
-</br>
+### 🍎 Personal Projects
 
-https://ethicalbrand.com/
-</br>
-https://directory.ethicalbrand.com/
-</br>
-https://journal.ethicalbrand.org/
-</br>
-https://play.google.com/store/apps/details?id=com.discountDiva.app&hl=en
+### AURA — Your Energy In Words
+A fully native iOS app that shows motivational quotes based on your battery level.
+Built solo in Swift 6 and SwiftUI with on-device AI personalisation using Apple Foundation Models,
+lock screen widgets via WidgetKit, and monetisation via RevenueCat and StoreKit 2.
+420 quotes across 7 categories. No backend. Fully offline.
 
-### Flutter Web
-https://seatmatch.github.io/seatmatch-web-build/
-</br>
-***
-### My Personal Projects
+🌐 [auracharge.app](https://auracharge.app)
 
-</br>
+<img src="https://github.com/ckc64/ckc64/blob/master/screenshot_01.png" width="200"/>
+<img src="https://github.com/ckc64/ckc64/blob/master/screenshot_03.png" width="200"/>
+
+`Swift 6` `SwiftUI` `WidgetKit` `SwiftData` `Apple Intelligence` `RevenueCat` `StoreKit 2`
+
+---
 
 ### Brigada App
+A volunteering app where establishments like schools can request volunteers for events.
+Finalist at **AppCon 2020** by OTis Inc.
 
-</br>
+<img alt="Brigada App" src="https://github.com/ckc64/ckc64/blob/master/brigada%20GIF.gif" width="200"/>
 
-"Brigada" a volunteering application where an **establishment** like schools can request a volunteer to help on their important event/s, **user/volunteer** can view, locate and accept the request if they want too. Brigada also became a finalist for **AppCon 2020: An Invitational Application Development Contest by OTis Inc.**
-
-</br>
-
-<img alt="Brigada App" src="https://github.com/ckc64/ckc64/blob/master/brigada%20GIF.gif" width="400" height="790">
-
-
-</br>
+---
 
 ### Ploggly
+A social media app inspired by Instagram.
 
-</br>
+<img alt="Ploggly" src="https://github.com/ckc64/ckc64/blob/master/ploggly-gif.gif" width="200"/>
 
-"Ploggy" is a social media inspired by Instagram.
+---
 
-</br>
+### 🗂 Client Projects
 
-<img alt="Ploggly" src="https://github.com/ckc64/ckc64/blob/master/ploggly-gif.gif" width="400" height="790">
+| Project | Platform |
+|---|---|
+| [Nelson App](https://apps.apple.com/ph/app/nelson-app/id1123543046) | iOS |
+| [Nelson App](https://play.google.com/store/apps/details?id=com.app.p1436EA) | Android |
+| [Marlborough App](https://apps.apple.com/nz/app/the-marlborough-app/id1347811969) | iOS |
+| [Marlborough App](https://play.google.com/store/apps/details?id=com.app.p1251HB) | Android |
+| [Ethical Brand](https://ethicalbrand.com/) | Web |
+| [Ethical Brand Directory](https://directory.ethicalbrand.com/) | Web |
+| [Ethical Brand Journal](https://journal.ethicalbrand.org/) | Web |
+| [Discount Diva](https://play.google.com/store/apps/details?id=com.discountDiva.app) | Android |
+| [Seatmatch](https://seatmatch.github.io/seatmatch-web-build/) | Flutter Web |
 
+---
 
-</br>
+### 📬 Connect with me
 
-***
-
-### Connect with me
-
-</br>
-
-cabercharleskurt@gmail.com
-<img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-</br>
-October 2022 - June 2023
-<img align="left" alt="medium" src="https://github.com/ckc64/ckc64/blob/master/Screenshot_372.png" />
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cabercharleskurt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ckc64)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ckc64)
