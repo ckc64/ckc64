@@ -62,8 +62,8 @@ A social media app inspired by Instagram.
 | [Ethical Brand Journal](https://journal.ethicalbrand.org/) | Web |
 | [Discount Diva](https://play.google.com/store/apps/details?id=com.discountDiva.app) | Android |
 | [Seatmatch](https://seatmatch.github.io/seatmatch-web-build/) | Flutter Web |
-| Fintech App | IOS | Android |
-| E-commerce App | IOS | Android |
+| Fintech App | IOS/Android |
+| E-commerce App | IOS/Android |
 
 ---
 
