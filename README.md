@@ -81,7 +81,7 @@ A fully native iOS application built entirely with Swift 6 and SwiftUI.
 
 ---
 
-## 💳 UnionDigital SuperApp
+## 💳 Fintech App
 
 A fintech super app used by thousands of users for daily financial transactions.
 
@@ -139,7 +139,6 @@ Community and tourism application serving local residents and visitors.
 | **Ethical Brand**<br>https://ethicalbrand.com                                                                                                                           | Web      | Laravel • Vue.js       |
 | **Ethical Brand Directory**<br>https://directory.ethicalbrand.com                                                                                                       | Web      | Laravel • Vue.js       |
 | **Ethical Brand Journal**<br>https://journal.ethicalbrand.org                                                                                                           | Web      | Laravel • Vue.js       |
-| **UnionDigital SuperApp**                                                                                                                                               | Mobile   | Flutter • Firebase     |
 | **Healthcare eSource Platform**                                                                                                                                         | Web      | Flutter Web • Firebase |
 | **Fintech Applications (NDA)**                                                                                                                                          | Mobile   | Flutter • Firebase     |
 | **E-Commerce Applications (NDA)**                                                                                                                                       | Mobile   | Flutter • Firebase     |
@@ -207,14 +206,6 @@ Features user profiles, photo sharing, comments, likes, feeds, and social intera
 * Built fintech, healthcare, e-commerce, media, and AI-powered applications
 * Experience with Flutter, SwiftUI, Firebase, Node.js, React, Next.js, Vue.js, Laravel, and SQL
 * Daily user of AI development tools including Claude, ChatGPT, Gemini, and Cursor
-
----
-
-## 📊 GitHub Stats
-
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckc64\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ckc64\&layout=compact)
 
 ---
 
