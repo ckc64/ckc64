@@ -1,27 +1,148 @@
-
 # Hello World, I'm Charles 👋
-## Flutter & iOS Developer
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+## Flutter, iOS & Web Developer
 
-- 🔭 5+ years building Flutter apps across fintech, e-commerce, media, and AI-powered products
-- 🍎 Recently shipped a fully native iOS app using Swift 6 and SwiftUI
-- 🤖 Using Claude, ChatGPT, and Gemini daily for development workflows
-- 🌱 Always building and learning something new
-- ⚡ Fun fact: I go to the gym 💪 when I can't solve an issue
+Senior Flutter Developer and Team Lead with 5+ years of experience building fintech, healthcare, e-commerce, media, and AI-powered applications.
+
+I specialize in Flutter, SwiftUI, Firebase, Clean Architecture, and modern web technologies including React, Next.js, Vue.js, Laravel, Node.js, and SQL.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge\&logo=swift\&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+
+* 🔭 5+ years building Flutter apps across fintech, e-commerce, media, healthcare, and AI-powered products
+* 🍎 Recently shipped a fully native iOS app built with Swift 6 and SwiftUI
+* 🌐 Experienced in Flutter, React, Next.js, Vue.js, Laravel, Firebase, Node.js, and SQL
+* 🤖 Using Claude, ChatGPT, Gemini, and Cursor daily for development workflows
+* 👨‍💻 Senior Flutter Developer & Team Lead with experience delivering production applications
+* 🌱 Always building and learning something new
+* ⚡ Fun fact: I go to the gym 💪 when I can't solve an issue
 
 ---
 
 ## 🛠 Tech Stack
 
-Flutter · Dart · Swift · SwiftUI · Firebase · BLoC · Provider · Clean Architecture  
-WidgetKit · SwiftData · RevenueCat · StoreKit 2 · Node.js · FlutterFlow · Next.js  
-Gemini Flash · OpenAI · Claude · REST APIs · CI/CD · Codemagic
+### Mobile
+
+Flutter • Dart • Swift • SwiftUI • Firebase • BLoC • Provider • Clean Architecture • WidgetKit • StoreKit 2 • RevenueCat
+
+### Web
+
+React • Next.js • Vue.js • Laravel • PHP • SQL • Tailwind CSS
+
+### Backend & Cloud
+
+Node.js • Express • Firebase • REST APIs
+
+### AI
+
+OpenAI • Gemini • Claude • Cursor AI
+
+### DevOps
+
+Git • GitHub Actions • Codemagic • CI/CD
+
+---
+
+# ⭐ Featured Apps
+
+## 🍎 AURA — Your Energy In Words
+
+A fully native iOS application built entirely with Swift 6 and SwiftUI.
+
+📱 App Store: https://apps.apple.com/app/id6744965846
+
+🌐 Website: https://auracharge.app
+
+### Tech
+
+`SwiftUI` `SwiftData` `WidgetKit` `RevenueCat`
+`StoreKit 2` `Apple Foundation Models`
+
+### Highlights
+
+* 1000+ motivational quotes
+* Battery-aware quote engine
+* Lock screen widgets
+* Offline-first architecture
+* Subscription & lifetime purchases
+* Built and launched solo
+
+<p float="left">
+  <img src="https://github.com/ckc64/ckc64/blob/master/screenshot_03.png" width="180"/>
+  <img src="https://github.com/ckc64/ckc64/blob/master/screenshot_01.png" width="180"/>
+  <img src="https://github.com/ckc64/ckc64/blob/master/IMG_0088.PNG" width="180"/>
+  <img src="https://github.com/ckc64/ckc64/blob/master/IMG_0131.PNG" width="180"/>
+</p>
+
+---
+
+## 💳 UnionDigital SuperApp
+
+A fintech super app used by thousands of users for daily financial transactions.
+
+### Features Delivered
+
+* Loan onboarding & OTP verification
+* Bills payment
+* Buy load
+* Transaction history
+* Time deposits
+* Fund transfers
+* Account management
+
+### Responsibilities
+
+* Flutter development
+* API integrations
+* Clean Architecture implementation
+* BLoC state management
+* Production releases
+
+`Flutter` `Firebase` `BLoC` `REST APIs`
+
+---
+
+## 📱 Nelson App
+
+Community and tourism application serving local residents and visitors.
+
+📱 iOS: https://apps.apple.com/ph/app/nelson-app/id1123543046
+
+📱 Android: https://play.google.com/store/apps/details?id=com.app.p1436EA
+
+### Features
+
+* Local news
+* Events
+* Community notices
+* Business directory
+* Notifications
+* City services
+
+`Flutter` `Firebase`
+
+---
+
+# 🗂 Client Projects
+
+| Project                                                                                                                                                                 | Platform | Stack                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------- |
+| **Nelson App**<br>[iOS](https://apps.apple.com/ph/app/nelson-app/id1123543046) • [Android](https://play.google.com/store/apps/details?id=com.app.p1436EA)               | Mobile   | Flutter • Firebase     |
+| **Marlborough App**<br>[iOS](https://apps.apple.com/nz/app/the-marlborough-app/id1347811969) • [Android](https://play.google.com/store/apps/details?id=com.app.p1251HB) | Mobile   | Flutter • Firebase     |
+| **Discount Diva**<br>[Android](https://play.google.com/store/apps/details?id=com.discountDiva.app)                                                                      | Mobile   | Flutter • Firebase     |
+| **SeatMatch**<br>https://seatmatch.github.io/seatmatch-web-build/                                                                                                       | Web      | Flutter Web • Firebase |
+| **Ethical Brand**<br>https://ethicalbrand.com                                                                                                                           | Web      | Laravel • Vue.js       |
+| **Ethical Brand Directory**<br>https://directory.ethicalbrand.com                                                                                                       | Web      | Laravel • Vue.js       |
+| **Ethical Brand Journal**<br>https://journal.ethicalbrand.org                                                                                                           | Web      | Laravel • Vue.js       |
+| **UnionDigital SuperApp**                                                                                                                                               | Mobile   | Flutter • Firebase     |
+| **Healthcare eSource Platform**                                                                                                                                         | Web      | Flutter Web • Firebase |
+| **Fintech Applications (NDA)**                                                                                                                                          | Mobile   | Flutter • Firebase     |
+| **E-Commerce Applications (NDA)**                                                                                                                                       | Mobile   | Flutter • Firebase     |
 
 ---
 
@@ -29,8 +150,10 @@ Gemini Flash · OpenAI · Claude · REST APIs · CI/CD · Codemagic
 
 ## 🐉 Dragon Dynasty
 
-An AI-powered dragon life simulator built with Flutter.  
-Live as a dragon, make choices, and shape your legend.  
+An AI-powered dragon life simulator built with Flutter.
+
+Players hatch a dragon, make choices, experience AI-generated events, and shape their legend across different eras.
+
 Powered by Gemini Flash.
 
 `Flutter` `Dart` `Gemini Flash` `BLoC` `Hive` `GoRouter`
@@ -51,31 +174,13 @@ Powered by Gemini Flash.
 
 ---
 
-## 🍎 AURA — Your Energy In Words
-
-A fully native iOS app that shows motivational quotes based on your battery level.  
-Built solo in Swift 6 and SwiftUI with on-device AI personalization using Apple Foundation Models,  
-lock screen widgets via WidgetKit, and monetization via RevenueCat and StoreKit 2.
-
-1000+ quotes across 7 categories. No backend. Fully offline.
-
-🌐 https://auracharge.app
-
-`Swift 6` `SwiftUI` `WidgetKit` `SwiftData` `Apple Intelligence` `RevenueCat` `StoreKit 2`
-
-<p float="left">
-  <img src="https://github.com/ckc64/ckc64/blob/master/screenshot_03.png" width="180"/>
-  <img src="https://github.com/ckc64/ckc64/blob/master/screenshot_01.png" width="180"/>
-  <img src="https://github.com/ckc64/ckc64/blob/master/IMG_0088.PNG" width="180"/>
-  <img src="https://github.com/ckc64/ckc64/blob/master/IMG_0131.PNG" width="180"/>
-</p>
-
----
-
 ## 🚀 Brigada App
 
-A volunteering app where establishments like schools can request volunteers for events.  
-Finalist at **AppCon 2020** by OTis Inc.
+Volunteer management platform that connects schools, organizations, and volunteers for community events and outreach programs.
+
+🏆 Finalist — AppCon 2020 (OTis Inc.)
+
+`Flutter` `Firebase`
 
 <img alt="Brigada App" src="https://github.com/ckc64/ckc64/blob/master/brigada%20GIF.gif" width="220"/>
 
@@ -83,41 +188,48 @@ Finalist at **AppCon 2020** by OTis Inc.
 
 ## 📱 Ploggly
 
-A social media app inspired by Instagram.
+A social media application inspired by Instagram.
+
+Features user profiles, photo sharing, comments, likes, feeds, and social interactions.
+
+`Flutter` `Firebase`
 
 <img alt="Ploggly" src="https://github.com/ckc64/ckc64/blob/master/ploggly-gif.gif" width="220"/>
 
 ---
 
-# 🗂 Client Projects
+# 📈 Experience Highlights
 
-| Project | Platform |
-|---|---|
-| [Nelson App](https://apps.apple.com/ph/app/nelson-app/id1123543046) | iOS |
-| [Nelson App](https://play.google.com/store/apps/details?id=com.app.p1436EA) | Android |
-| [Marlborough App](https://apps.apple.com/nz/app/the-marlborough-app/id1347811969) | iOS |
-| [Marlborough App](https://play.google.com/store/apps/details?id=com.app.p1251HB) | Android |
-| [Ethical Brand](https://ethicalbrand.com/) | Web |
-| [Ethical Brand Directory](https://directory.ethicalbrand.com/) | Web |
-| [Ethical Brand Journal](https://journal.ethicalbrand.org/) | Web |
-| [Discount Diva](https://play.google.com/store/apps/details?id=com.discountDiva.app) | Android |
-| [Seatmatch](https://seatmatch.github.io/seatmatch-web-build/) | Flutter Web |
-| Fintech App | iOS / Android |
-| E-commerce App | iOS / Android |
+* 5+ years of Flutter development experience
+* Senior Flutter Developer & Team Lead
+* Fully remote since 2020
+* Shipped apps to the App Store and Google Play
+* Built fintech, healthcare, e-commerce, media, and AI-powered applications
+* Experience with Flutter, SwiftUI, Firebase, Node.js, React, Next.js, Vue.js, Laravel, and SQL
+* Daily user of AI development tools including Claude, ChatGPT, Gemini, and Cursor
+
+---
+
+## 📊 GitHub Stats
+
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckc64\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ckc64\&layout=compact)
 
 ---
 
 # 📬 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cabercharleskurt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ckc64)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ckc64)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:cabercharleskurt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ckc64)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ckc64)
 
-📧 Email: **cabercharleskurt@gmail.com**  
-💼 LinkedIn: **linkedin.com/in/ckc64**  
-🐙 GitHub: **github.com/ckc64**
+📧 **Email:** [cabercharleskurt@gmail.com](mailto:cabercharleskurt@gmail.com)
+
+💼 **LinkedIn:** https://linkedin.com/in/ckc64
+
+🐙 **GitHub:** https://github.com/ckc64
 
 ---
 
-⭐️ From [ckc64](https://github.com/ckc64)
-
+⭐️ Thanks for stopping by! Feel free to connect or reach out.
